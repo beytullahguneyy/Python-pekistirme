@@ -1,5 +1,5 @@
 #koşullar,döngüler,listeler,fonksiyonlar konusu pekiştirme.
-
+#beytullahgüney
 def yashesapla(isim,soyisim,yıl):
     yıl = int(yıl)
     yas = 2023-yıl
